@@ -1,0 +1,29 @@
+.filled{
+   border:1px solid #2A7AE4;
+   background-color: #2A7AE4;
+   padding: 16px;
+   color:white;
+   transition:all 200ms;
+
+}
+.hollow{
+   border:1px solid #2A7AE4;
+   background-color: transparent;
+   padding: 16px;
+   color:#2A7AE4;
+   transition:all 200ms;
+}
+.tiny{
+   font-size:14px;
+   font-weight:600;
+}
+.big{
+   font-size:16px;
+   font-weight:400;
+}
+.filled:hover{
+   background: #5595E9;
+}
+.hollow:hover{
+   background: #D4E4FA;
+}
