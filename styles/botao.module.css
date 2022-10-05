@@ -1,4 +1,6 @@
 .filled{
+   display:flex;
+   justify-content:center;
    border:1px solid #2A7AE4;
    background-color: #2A7AE4;
    padding: 16px;
@@ -7,6 +9,8 @@
 
 }
 .hollow{
+   display:flex;
+   justify-content:center;
    border:1px solid #2A7AE4;
    background-color: transparent;
    padding: 16px;
